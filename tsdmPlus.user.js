@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         天使动漫JS增强
-// @author       AurevoirXavier eroko
+// @author       AurevoirXavier eroko nexus
 // @version      1.0
 // @description  页面集成打工与签到按钮，优化了回到顶部功能
 // @include     *://www.tsdm.live/forum.php*
